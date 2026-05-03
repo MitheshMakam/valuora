@@ -1,8 +1,10 @@
 # ◈ Valuora
 
-> AI-powered e-commerce product analyzer. Paste any Amazon or Flipkart URL and get an instant **BUY / WAIT / AVOID** verdict powered by Claude claude-opus-4-5.
+> AI-powered e-commerce product analyzer. Paste any Amazon or Flipkart URL and get an instant **BUY / WAIT / AVOID**.
 
 ---
+
+> **🌐 Live at → https://valuora.vercel.app**
 
 ## ✅ Prerequisites
 
